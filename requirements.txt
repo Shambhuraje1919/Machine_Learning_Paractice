@@ -1,3 +1,5 @@
  scikit-learn
  pandas
  virtualenv
+ Math
+ numpy
