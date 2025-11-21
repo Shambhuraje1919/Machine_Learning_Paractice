@@ -3,3 +3,4 @@
  virtualenv
  Math
  numpy
+ matplotlib
