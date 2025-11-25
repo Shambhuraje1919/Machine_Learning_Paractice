@@ -4,3 +4,5 @@
  Math
  numpy
  matplotlib
+SQLite
+Seaborn
