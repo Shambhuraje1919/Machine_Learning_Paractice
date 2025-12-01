@@ -8,6 +8,8 @@ app = Flask(__name__)
 
 @app.route("/") 
 def welcome():
+/*************  ✨ Windsurf Command ⭐  *************/
+/*******  b0382827-bce4-4443-8be1-93e679b292ca  *******/
     return "Wlcome to this home , this the future data scentist  sam bossss first web page using python flask framework"
 
 @app.route("/index") 
