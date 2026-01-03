@@ -11,6 +11,12 @@ NumPy
 
 PyTorch
 
+Pandas
+
+Mathplotlib
+
+Streamlit
+
 TensorFlow / Keras
 
 Purpose
