@@ -13,11 +13,13 @@ PyTorch
 
 Pandas
 
-Mathplotlib
+Matplotlib
 
 Streamlit
 
 TensorFlow / Keras
+
+
 
 Purpose
 
