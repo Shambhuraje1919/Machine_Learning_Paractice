@@ -1,0 +1,225 @@
+[33mcommit d5cc86ca2ce2c732716f232cfdaff68c2127ace5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Wed Jan 7 09:10:56 2026 +0530
+
+    Remove venv from history and ignore it
+
+[33mcommit 3ea6bceb9653f96e3a4242b9a2be483b74733908[m[33m ([m[1;32mbackup-before-venv-clean[m[33m)[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Wed Jan 7 09:04:10 2026 +0530
+
+    Remove venv from repository and update gitignore
+
+[33mcommit 4c714566b3adef917a4b74986031aead8a5e0eb0[m
+Merge: 9bd0dc54 24ed129f
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Wed Jan 7 08:57:19 2026 +0530
+
+    String Wrapping Done
+
+[33mcommit 9bd0dc545ba8552654946010379c9a4cb71f8a5b[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Wed Jan 7 08:53:30 2026 +0530
+
+    String Wrapping Done
+
+[33mcommit 24ed129fe762468e5a48d8ee87c13947ef71478f[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Mon Jan 5 23:38:06 2026 +0530
+
+    Update README.md
+
+[33mcommit 9ca20fde224f24449f9f1c4283f8490de975ee12[m
+Merge: 26d0194d dd51fc2f
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Sat Jan 3 22:00:24 2026 +0530
+
+    Merge pull request #4 from Shambhuraje1919/Shambhuraje1919-patch-2
+    
+    Update README to include new libraries
+
+[33mcommit dd51fc2fe4b8c28d334590e9df753305df7f2d50[m[33m ([m[1;31morigin/Shambhuraje1919-patch-2[m[33m)[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Sat Jan 3 21:59:30 2026 +0530
+
+    Update README to include new libraries
+    
+    Added Pandas, Matplotlib, and Streamlit to the README.
+
+[33mcommit 26d0194d34a19eca7093baf9432e83711f754a48[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Sat Jan 3 21:58:47 2026 +0530
+
+    Revise README for clarity and focus on Python ML
+    
+    Updated README to reflect focus on Python and machine learning fundamentals, and simplified content structure.
+
+[33mcommit 2b9571968199b9d7bcef4075d8d956285d318d38[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Sat Jan 3 21:55:39 2026 +0530
+
+    Add README
+
+[33mcommit f08db7e70b5b88c312e20fe482e1186ca9893ccb[m[33m ([m[1;31morigin/add/environment-yml[m[33m)[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sat Jan 3 21:37:34 2026 +0530
+
+    Learend new math concepts
+
+[33mcommit dbc065754a521e62be106408ada94bb4fd00fb59[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sat Jan 3 16:45:25 2026 +0530
+
+    New Dict , set Practice Ex
+
+[33mcommit 134f1d4a388621a7c03b20bacde8a7655c8b86aa[m
+Merge: 844963ae 9770a3d1
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sat Jan 3 10:15:38 2026 +0530
+
+    New Python Practice Done
+
+[33mcommit 844963aec4a5185af8362f3d17473342fe5b510b[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sat Jan 3 10:14:21 2026 +0530
+
+    Python practice Done
+
+[33mcommit 9770a3d101b4787572fcc423549d096924b1258a[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Fri Jan 2 21:10:06 2026 +0530
+
+    Update try.ipynb
+
+[33mcommit efb6c5dc81a5140fd3e1719c849443cf2f9e1ee6[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Thu Jan 1 14:57:16 2026 +0530
+
+    Fix typo in comments in linerar.ipynb
+
+[33mcommit f2c14a80269bd4229fe910c71da84b965043f80f[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Mon Dec 15 20:05:32 2025 +0530
+
+    Update linerar.ipynb
+
+[33mcommit 10e277aa802171df8ec7e3dde55376502e052deb[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Sun Dec 7 20:08:01 2025 +0530
+
+    Update requirements.txt
+
+[33mcommit 5d2617f1ca200d08e6b4660f539d42bcd0c83a8c[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sun Dec 7 20:04:06 2025 +0530
+
+    new Chatbot instructions added
+
+[33mcommit cd33b9fab3a95ac2439820e6a7d87ad6480b4f22[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Sat Dec 6 19:02:21 2025 +0530
+
+    Update linerar.ipynb
+
+[33mcommit c1c4be8e19c404c0fdcce66040e92e850e0d14a8[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Wed Dec 3 17:47:40 2025 +0530
+
+    Update test.py
+
+[33mcommit e9bfd365ad9a3043732b1858df292ebee6e0f78d[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Tue Dec 2 22:46:53 2025 +0530
+
+    Update requirements.txt
+
+[33mcommit c266ff1e24f13321c90fdcc71968d25f4c8268ef[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Mon Dec 1 17:26:56 2025 +0530
+
+    New Chatbot and new Feat. of streamlit learned
+
+[33mcommit e43be6cfc1e21d542f3d981d57be855dfecf92e9[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Mon Dec 1 16:40:33 2025 +0530
+
+    new Streamlit app devloped and learned new things about this libraires
+
+[33mcommit 53646f1977b4874755dac0593e04d2e99a50650f[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Mon Dec 1 10:40:14 2025 +0530
+
+    new API with a todo app through flask and api update , delete , new create get , post, delete operations learned
+
+[33mcommit 19c6e0c0e958d0dd21e8cf401086a5d1716d8ca5[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sun Nov 30 13:50:45 2025 +0530
+
+    new html files added
+
+[33mcommit e42acf4c00ed7e4f232aaf81cb2681f1410193ef[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sat Nov 29 17:49:42 2025 +0530
+
+    New Web pages created
+
+[33mcommit 9e1b0256921729030ad4b54a7e2bf138db777552[m
+Merge: 907cffc2 ef3b6f02
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sat Nov 29 17:25:33 2025 +0530
+
+    New Flash Framework added and first web page freated with flask
+
+[33mcommit 907cffc2e7e148d226f00b5d6960d55d1f0b29f3[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Fri Nov 28 21:53:14 2025 +0530
+
+    New Ex
+
+[33mcommit ef3b6f02618c065c2d1ea6e204a17d69fbf0c1c9[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Thu Nov 27 22:04:07 2025 +0530
+
+    Update requirements.txt
+
+[33mcommit 7205ed9a68f410d89e122efbef27d83fb883c03a[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Wed Nov 26 19:01:48 2025 +0530
+
+    New ex
+
+[33mcommit 116cc54be8ae0a0c767784fe00a05199fb455ca9[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Tue Nov 25 20:05:35 2025 +0530
+
+    Update requirements.txt
+
+[33mcommit 4db507918c4f11f13adde7938c2670167daaebbf[m
+Merge: 04ecb91b c332be85
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sun Nov 23 18:16:41 2025 +0530
+
+    New Threading methods with real life ex. added
+
+[33mcommit 04ecb91b7a766625d4a9d3fdcdfae0ec7a26ffbc[m
+Author: Shambhuraje Sunil Jagadale <shambhurajejagadale@gmail.com>
+Date:   Sun Nov 23 18:14:30 2025 +0530
+
+    New Threading Methods with examples
+
+[33mcommit c332be855fb09d8863b25b4c4bdc9f6644d35b91[m
+Merge: 0b39d93e 48b4e6e7
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Sun Nov 23 11:16:55 2025 +0530
+
+    Merge pull request #1 from Shambhuraje1919/Shambhuraje1919-patch-1
+    
+    Add GitHub Actions workflow for Python package with Conda
+
+[33mcommit 48b4e6e7342a59615fda1f64542dd7ef79191e1e[m[33m ([m[1;31morigin/Shambhuraje1919-patch-1[m[33m)[m
+Author: Shambhuraje Sunil Jagadale <108977987+Shambhuraje1919@users.noreply.github.com>
+Date:   Sun Nov 23 11:15:48 2025 +0530
+
+    Add GitHub Actions workflow for Python package with Conda
+
+[33mcommit 0b39d93e9a2
