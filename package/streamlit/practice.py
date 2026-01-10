@@ -10,8 +10,12 @@ roll_no = st.text_input("Enter Roll Number")
 m1 = st.number_input("Maths Marks",0,100)
 beee = st.number_input("BEEE marks", 0,100)
 vlsi = st.number_input("VLSI Marks",0,100)
-st.balloons()
+
 st.snow()
+st.write("Code is like humor. When you have to explain it,")
+st.text("Code is like humor. When you have to explain it,")
+st.page_config(page_title="LPA Predictor", page_icon=":computer:", layout="centered")
+
 
 
 if "data" not in st.session_state:
@@ -53,4 +57,3 @@ else :
     st.info("No student data available. Please add student details.")
 st.warning("This is a practice application. Data will not be saved permanently.")
 st.video("https://www.youtube.com/embed/dp2OYt_2O9E")
-st.bar_chart([10,20,30,40,50])
