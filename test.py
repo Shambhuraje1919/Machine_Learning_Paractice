@@ -9,3 +9,11 @@ data = {
 
 df = pd.DataFrame(data)
 print(df)
+
+data2 = {
+    "name":["sohit","Ram","Kisho"],
+    "age":[22,23,23],
+    "Marks":[22,25,88]
+}
+df1 = pd.DataFrame(data2)
+print(df1)
