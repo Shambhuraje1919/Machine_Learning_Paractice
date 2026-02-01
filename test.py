@@ -55,6 +55,7 @@ plt.figure(figsize=(8, 4))
 sns.histplot(data=df_prices, x='price', hue='item', kde=True, element='step')
 plt.title('Price distribution (sample data)')
 plt.tight_layout()
+plt.xlabel("New")
 plt.savefig('prices_dist.png')
 print("Saved prices_dist.png")
 
