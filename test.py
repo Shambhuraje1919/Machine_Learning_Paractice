@@ -49,15 +49,15 @@ plt.ylabel('Price')
 plt.tight_layout()
 plt.savefig('prices_plot.png')
 print("Saved prices_plot.png")
-
-# Plot price distribution
-plt.figure(figsize=(8, 4))
-sns.histplot(data=df_prices, x='price', hue='item', kde=True, element='step')
-plt.title('Price distribution (sample data)')
 plt.tight_layout()
 plt.xlabel("New")
 plt.savefig('prices_dist.png')
 print("Saved prices_dist.png")
+# Plot price distribution
+plt.figure(figsize=(8, 4))
+sns.histplot(data=df_prices, x='price', hue='item', kde=True, element='step')
+plt.title('Price distribution (sample data)')
+
 
 # If running interactively, show the plots
 try:
