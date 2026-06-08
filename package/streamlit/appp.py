@@ -1,0 +1,15 @@
+
+import streamlit as st
+st.title("Hello Software Engineer")
+st.write("How much will your LPA be in 5 years?")
+Salary_with_compnay = st.selectbox("Select your company and package", ["google 30LPA", "amazon 25LPA", "microsoft 28LPA", "apple 35LPA"])
+st.write("Congratulations for ", Salary_with_compnay)
+st.success( Salary_with_compnay,icon="✅")
+st.balloons()
+st.write("Thank you for using our app!")
+st.snow()
+st.text("Code is like humor. When you have to explain it,")
+st.page_config(page_title="LPA Predictor", page_icon=":computer:", layout="centered")
+name = st.text_input("Enter your name")
+st.write("Your name is:", name)
+st.button("Submit")

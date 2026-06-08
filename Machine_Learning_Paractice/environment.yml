@@ -1,0 +1,23 @@
+name: ml-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scipy
+  - jupyter
+  - notebook
+  - ipykernel
+  - pip:
+    - xgboost
+    - lightgbm
+    - mlflow
+    - joblib
+    - tqdm
+    - requests
