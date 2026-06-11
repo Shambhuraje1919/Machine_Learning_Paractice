@@ -1,9 +1,9 @@
 name: base
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
-  - python=3.13
+  - python=3.10
   
   # --- Core Data & Machine Learning ---
   - pandas
@@ -18,9 +18,6 @@ dependencies:
   - scrapy
   - w3lib
   
-  # --- Windows-specific dependencies ---
-  - win_inet_pton=1.1.0  # [win]
-  - winpty=0.4.3  # [win]
-  - xlwings=0.32.1  # [win]
-  
-  # --- Add any other SPECIFIC libraries you actually imported in your code ---
+  # --- Testing ---
+  - pytest
+  - flake8
