@@ -1,5 +1,5 @@
 ''' How to integrated HTML with flask frameowrks'''
-from flask import Flask , render_template
+from flask import Flask ,request, render_template
 '''
 It creates a instance of class  flask classs , which acts as  the WSGI application.
 '''
@@ -17,7 +17,7 @@ def home():
 @app.route("/form", methods=['GET', 'POST'])
 def form():
     if request.method == 'POST':
-        mame = request.form['name']
+        name = request.form['name']
         return f"Hello,{name}!"
     return render_template('form.html')
 
