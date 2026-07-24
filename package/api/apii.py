@@ -17,18 +17,18 @@ def get_items():
     return jsonify(items)
 ## rttrive sprecific items by ID:
 
-@app.route('/items/<int:item_id>',methods=['GET'])
+@app.route('/items/<int:item_id>', methods=['GET'])
 def get_all_items(item_id):
-    item=next(( item  for  item in item["id"]==item_id),None)
+    item = next((item for item in items if item["id"] == item_id), None)
     if item is None:
-        return jsonify({"no item is found with the given ID"}),404
+        return jsonify({"error": "No item found with the given ID"}), 404
     return jsonify(item)
 
 ## $ bew Task :-
 @app.route('/items', methods=['POST'])
 def create_item():
     if not request.json or not 'name' in request.json:
-        return jsonify({"error Not found the name field"}),400
+        return jsonify({"error": "Name field is required"}), 400
     new_item = {
         "id": items[-1]['id'] + 1 if items else 1,
         "name": request.json['name'],
