@@ -4,6 +4,3 @@
  Math
  numpy
  matplotlib
- seaborn
- Flask
-Streamit
