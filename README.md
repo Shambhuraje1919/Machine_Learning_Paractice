@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:EF4444&height=220&section=header&text=Machine%20Learning%20Practice&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=80%2B%20hands-on%20notebooks%20%E2%80%94%20from%20EDA%20to%20Deep%20Learning%20to%20Deployment&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://github.com/Shambhuraje1919">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Aspiring+ML%2FData+Science+Engineer;Scikit-Learn+%7C+PyTorch+%7C+TensorFlow+%7C+EDA;80%2B+Notebooks+%7C+Real+Datasets+%7C+CI+Pipeline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Aspiring+ML%2FData+Science+Engineer;Scikit-Learn+%7C+PyTorch+%7C+EDA;80%2B+Notebooks+%7C+Real+Datasets+%7C+CI+Pipeline" alt="Typing SVG" />
 </a>
 
 <br/>
